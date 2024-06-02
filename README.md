@@ -8,7 +8,7 @@ A small attempt to make an e-commerce user interface in Flutter for Android and 
 ## ScreenShots 
 
 ### Home Page 
-<img src = "!https://github.com/prince-buha/Ecommerce_App_exam/assets/150029430/7feb1ad5-d411-4f6b-aa07-1511df3ea260" height="500em">
+<img src = "https://github.com/prince-buha/Ecommerce_App_exam/assets/150029430/7feb1ad5-d411-4f6b-aa07-1511df3ea260" height="500em">
 
 ### Products Screen & Product Detail Screen
 <img src = "https://github.com/prince-buha/Ecommerce_App_exam/assets/150029430/e09d6ec6-fd8d-4b69-914a-20541e504995" height="500em">
